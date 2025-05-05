@@ -18,10 +18,9 @@ Unlock the full potential of Roblox games with **Roblox Executor XPro 2025**, a 
 3. [Key Features](#key-features)
 4. [Usage & Interface](#usage--interface)
 5. [Feature Comparison](#feature-comparison)
-6. [Changelog](#changelog)
-7. [FAQ](#faq)
-8. [Support](#support)
-9. [License](#license)
+6. [FAQ](#faq)
+7. [Support](#support)
+8. [License](#license)
 
 ---
 
@@ -95,89 +94,6 @@ Unlock the full potential of Roblox games with **Roblox Executor XPro 2025**, a 
 | Custom API Support         | ✅                  | ❌                 |
 | Safe Mode Toggle           | ✅                  | ❌                 |
 | Multi-Executor Support     | ✅                  | ❌                 |
-
----
-
-## 🛠 Changelog
-
-### Version 2.7
-
-* Added script debugging tool with real-time error logs.
-* Improved auto-attach feature for latest Roblox versions.
-* Added support for multi-tab script editor.
-
-### Version 2.6
-
-* Enhanced Lua engine for faster script execution.
-* Improved bypass system for new Roblox anti-cheat patches.
-* Minor UI polish for better readability.
-
-### Version 2.5
-
-* Added support for custom script API plugins.
-* Fixed issue with script saving path error.
-* Optimized injection time (2.5s average).
-
-### Version 2.4
-
-* Introduced Safe Mode toggle for risk-free injection.
-* Updated Script Hub with 15 new popular scripts.
-* Improved crash recovery system.
-
-### Version 2.3
-
-* Fixed rare crash when executing large scripts.
-* Minor bug fixes in settings module.
-* Script tab navigation added.
-
-### Version 2.2
-
-* UI redesign: dark theme and icon improvements.
-* Improved detection bypass across all game types.
-* Fixed issue with long script names in editor.
-
-### Version 2.1
-
-* Performance improvements in code parser.
-* Inject-on-launch stability improved.
-* Added more descriptive error messages.
-
-### Version 2.0
-
-* Full rework of core execution engine.
-* New script loader with folder organization.
-* Major optimization of Lua interpreter.
-
-### Version 1.9
-
-* Anti-crash mechanism added.
-* Keyboard shortcuts for script control.
-* Improved script editor syntax highlighting.
-
-### Version 1.8
-
-* Added basic drag-and-drop script support.
-* UI bug fix on low-resolution monitors.
-* Improved update checker reliability.
-
-### Version 1.7
-
-* Auto-updater module introduced.
-* Added support for multiline script output.
-* Minor script hub UI fixes.
-
-### Version 1.6
-
-* Faster injection on slower systems.
-* New welcome screen with setup guide.
-* Support for most recent Lua scripts.
-
-### Version 1.5
-
-* Initial release of Roblox Executor XPro.
-* Core Lua executor.
-* Script hub v1.
-* Basic GUI with light/dark toggle.
 
 ---
 
